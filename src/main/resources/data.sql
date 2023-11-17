@@ -1,0 +1,1 @@
+INSERT INTO users (id, date_created, date_updated, name) VALUES(1000, NOW(), NOW(), 'test 1');
